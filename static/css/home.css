@@ -1,0 +1,40 @@
+.backgraund{
+    padding-top: 55px;
+    width: 100%;
+    height: fit-content;
+    background: radial-gradient(72.63% 316.33% at 23.13% 62.23%, 
+    rgba(70, 112, 150, 0.07) 0%, 
+    rgba(239, 190, 72, 0) 100%),
+    linear-gradient(237.95deg, 
+    rgba(234, 188, 83, 0.05) 22.6%, 
+    rgba(77, 103, 128, 0) 69.25%);
+}
+
+.progCss{
+    width: 40px;
+    height: 14px;
+    background-color: #ffc107;
+    border-radius: 5px;
+}
+
+.progHtml{
+    width: 40px;
+    height: 14px;
+    background-color: #0dcaf0;
+    border-radius: 5px;
+}
+
+.progSql{
+    width: 40px;
+    height: 14px;
+    background-color: #dc3545;
+    border-radius: 5px;
+}
+
+.progCh{
+    width: 40px;
+    height: 14px;
+    background-color: #0d6efd;
+    border-radius: 5px;
+}
+
